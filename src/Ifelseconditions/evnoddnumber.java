@@ -1,4 +1,4 @@
-package IncrementandDecrementoperators;
+package Ifelseconditions;
 
 public class evnoddnumber {
     public static void main(String[] args) {

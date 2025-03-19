@@ -1,4 +1,4 @@
-package IncrementandDecrementoperators;
+package Ifelseconditions;
 public class classifiesatriangle {
     public static void main(String[] args) {
         int side1 = 5;

@@ -1,4 +1,4 @@
-package IncrementandDecrementoperators;
+package Ifelseconditions;
 
 public class taskternaryoperator {
     public static void main(String[] args) {
