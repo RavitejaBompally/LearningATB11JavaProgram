@@ -8,10 +8,10 @@ public class vowels {
         input = input.toLowerCase();
         System.out.println(input);
 
-        for(int i=0;i<=input.length(); i++) {
+        for(int i=0;i<input.length(); i++) {
             char ch = input.charAt(i);
             if((ch == 'a') || (ch == 'e') || (ch == 'o') || (ch == 'i') || false){
-                vowels++;
+                vowels = vowels++;
             }
             else{
                 consonant++;

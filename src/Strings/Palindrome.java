@@ -12,7 +12,7 @@ public class Palindrome {
             System.out.println("It is a Palindrome");
         }
         else {
-            System.out.println("It is not a Palindrom");
+            System.out.println("It is not a Palindrome");
         }
         }
 
